@@ -25,6 +25,7 @@
 - html
   - web.html主界面
   - index.html，登录页面，codepen源码修改，https://codepen.io/features/
+    - 因为没有后端，注册登录都不需要真实的账号
   - 其他为四个介绍页面
 ### 经验总结
 - 外联js失效？将所有的js代码写入`window.onload = function () {}`或者`window.addEventListener('load', function () {})`
