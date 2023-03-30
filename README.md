@@ -24,7 +24,7 @@
    - img_nike，左侧滚动图片<nike鞋子>
 - html
   - web.html主界面
-  - login.html，登录页面，codepen源码修改，https://codepen.io/features/
+  - index.html，登录页面，codepen源码修改，https://codepen.io/features/
   - 其他为四个介绍页面
 ### 经验总结
 - 外联js失效？将所有的js代码写入`window.onload = function () {}`或者`window.addEventListener('load', function () {})`
